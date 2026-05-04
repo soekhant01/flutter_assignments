@@ -3,9 +3,10 @@ import 'package:flutter_assignments/assignments/assignment_12.dart';
 import 'package:flutter_assignments/assignments/assignment_13.dart';
 import 'package:flutter_assignments/assignments/assignment_14.dart';
 import 'package:flutter_assignments/assignments/assignment_15.dart';
+import 'package:flutter_assignments/assignments/assignment_16.dart';
 
 void main() {
-  runApp(const TikTokUi());
+  runApp( StudentTable());
 }
 
 class MyApp extends StatelessWidget {
