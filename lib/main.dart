@@ -4,9 +4,10 @@ import 'package:flutter_assignments/assignments/assignment_13.dart';
 import 'package:flutter_assignments/assignments/assignment_14.dart';
 import 'package:flutter_assignments/assignments/assignment_15.dart';
 import 'package:flutter_assignments/assignments/assignment_16.dart';
+import 'package:flutter_assignments/assignments/assignment_17.dart';
 
 void main() {
-  runApp( StudentTable());
+  runApp( CourseCurriculumViewer());
 }
 
 class MyApp extends StatelessWidget {
